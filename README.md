@@ -64,6 +64,4 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/tige21/tige21/output/github-snake-dark.svg" alt="snake" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=tige21&theme=tokyonight&hide_border=true" alt="streak" />
 </div>
