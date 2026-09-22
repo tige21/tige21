@@ -27,42 +27,41 @@
 
 ### Проекты
 
-<div align="center">
 <table>
 <tr>
-<td>
-  <a href="https://github.com/tige21/pozerkalam">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tige21&repo=pozerkalam&theme=tokyonight&hide_border=true" alt="По зеркалам" />
-  </a>
+<td width="50%" valign="top">
+
+**[По зеркалам](https://github.com/tige21/pozerkalam)**
+Тренажёр парковки и манёвров в браузере. 3D нарисован руками на Canvas 2D, без движка.
+[demo](https://pozerkalam.space)
+
 </td>
-<td>
-  <a href="https://github.com/tige21/marketbox">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tige21&repo=marketbox&theme=tokyonight&hide_border=true" alt="marketbox" />
-  </a>
+<td width="50%" valign="top">
+
+**[marketbox](https://github.com/tige21/marketbox)**
+Магазин внутри Telegram. React 19, работает и без сети.
+[demo](https://marketandbox.ru/app/)
+
 </td>
 </tr>
 <tr>
-<td>
-  <a href="https://github.com/tige21/spark-landing">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tige21&repo=spark-landing&theme=tokyonight&hide_border=true" alt="Spark Cards" />
-  </a>
+<td width="50%" valign="top">
+
+**[Spark Cards](https://github.com/tige21/spark-landing)**
+Карточная игра для разговоров, вопросы к колодам придумывает языковая модель. iOS, Android, Telegram.
+
 </td>
-<td>
-  <a href="https://github.com/tige21/doloy-unynie-landing">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tige21&repo=doloy-unynie-landing&theme=tokyonight&hide_border=true" alt="Долой уныние" />
-  </a>
+<td width="50%" valign="top">
+
+**[Долой уныние](https://github.com/tige21/doloy-unynie-landing)**
+Одностраничник с анимацией по скроллу.
+
 </td>
 </tr>
 </table>
-</div>
 
-Живые демо: [pozerkalam.space](https://pozerkalam.space) · [marketandbox.ru/app](https://marketandbox.ru/app/)
-
-### Статистика
+### Активность
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tige21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tige21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
-  <br/>
   <img src="https://streak-stats.demolab.com?user=tige21&theme=tokyonight&hide_border=true" alt="streak" />
 </div>
