@@ -98,7 +98,3 @@
 <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/tige21/tige21/output/github-snake-dark.svg" alt="snake" />
 </div>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,40:414868,100:1a1b27&height=120&section=footer" alt="footer" />
-</div>
